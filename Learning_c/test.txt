@@ -1,0 +1,4 @@
+Make and model of the automobile: apple 
+Year: 2024
+Original asking price: $10000000.00
+Now price: $9180000.00
